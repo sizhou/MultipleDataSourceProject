@@ -1,1 +1,3 @@
 # MultipleDataSourceProject
+
+第一版：在springboot项目中接入多数据源，由于接入多数据源导致的事务失效暂时使用手动事务完成
